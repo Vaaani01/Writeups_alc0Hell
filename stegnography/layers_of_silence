@@ -1,0 +1,6 @@
+Layers of silence:
+They gave a file named banner.png.gz
+Gunzip it to banner.png 
+Using zsteg -a banner.png to get a base58 encoded data. 
+Used ROT47 multiple times on CyberChef to get the flag.
+flag{STEREO_SECRET}
